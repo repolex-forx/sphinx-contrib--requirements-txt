@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "requirements-txt",
+  "versions": [
+    {
+      "commit": "c72576cd0d3af103f9d921132a219de223e83cad",
+      "tag": "",
+      "parsed_at": "2026-11-06T18:26:12.991295+00:00"
+    }
+  ]
+}
